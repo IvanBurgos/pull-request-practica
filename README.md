@@ -1,2 +1,2 @@
 ### Esta es una sección informativa
-Cambios para probar el webhook
+Cambios para probar el webhook.
